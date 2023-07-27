@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **any web3 / blockchain related project && Hackathons**
 
-- 👨‍💻 I’m developing my side-project to learn and challenge myself (fullstack/web3/blockchain/ERC721 soulbound/DAO) : [ElectID](https://github.com/ThomasDos/ElectID)
+- 👨‍💻 I’m developing my side project to learn and challenge myself in full-stack development, web3, blockchain, ERC721 soulbound, and DAO : [ElectID](https://github.com/ThomasDos/ElectID)
 
 - 💬 Ask me about **anything about web2, web3, blockchain or even scuba diving**
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/thomasdosanjos/](https://www.linkedin.com/in/thomasdosanjos/)
 
-- ⚡ Fun fact **I'm also a Scuba Diving Instructor and I worked all around the world (Asia, Europe, America, Pacific,etc...)**
+- ⚡ Fun fact **I’m also a Scuba Diving Instructor, and I have worked all around the world, including Asia, Europe, America, and the Pacific.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
