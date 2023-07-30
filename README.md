@@ -3,7 +3,7 @@
 
 - 👨‍💻 I’m currently working on [Dotations Locales](https://gitlab.com/incubateur-territoires/startups/dotations-locales/dotations-locales-app)
 
-- 🧠 I’m currently learning **Advanced Solidity and Zero Knowledge Proof**
+- 🧠 I’m currently learning **Advanced Solidity, Zero Knowledge Proof and Rust**
 
 - 🤝 I’m looking to collaborate on **any web3 / blockchain related project && Hackathons**
 
