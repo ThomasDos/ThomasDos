@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <strong>Thomas</strong></h1>
 <h3 align="center"> 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=500&color=42BCFF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=+A+passionate+FullStack+Web+Developer;%26%26+Blockchain+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=2500&pause=300&color=FFDE44&center=true&vCenter=true&multiline=true&repeat=false&width=620&height=100&lines=+A+passionate+Full+Stack+Web+Developer;%26%26+Blockchain+Developer" alt="Typing SVG" /></a>
 </h3>
 
 - 👨‍💻 I’m currently working on [Dotations Locales](https://gitlab.com/incubateur-territoires/startups/dotations-locales/dotations-locales-app)
