@@ -45,6 +45,7 @@
       <a href="#"><img alt="React-Query" src="https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white"></a> 
       <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
       <a href="#"><img alt="Nest" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white"></a>
+      <a href="#"><img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white"></a>
       <a href="#"><img alt="Apollo-Graphql" src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=flat&logo=apollo-graphql"></a>
       <a href="#"><img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white"></a>
       <a href="#"><img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white"></a>
@@ -79,7 +80,6 @@
     <a href="#"><img alt="Amazon Web Service" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white"></a>
     <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
     <a href="#"><img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white"></a>
     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
