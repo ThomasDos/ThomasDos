@@ -44,7 +44,7 @@
       <a href="#"><img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white"></a>
       <a href="#"><img alt="React-Query" src="https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white"></a> 
       <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
-      <a href="#"><img alt="Nest" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white"></a>
+      <a href="https://github.com/ThomasDos/NestJS-Tasks-Management"><img alt="Nest" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white"></a>
       <a href="#"><img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white"></a>
       <a href="#"><img alt="Apollo-Graphql" src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=flat&logo=apollo-graphql"></a>
       <a href="#"><img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white"></a>
