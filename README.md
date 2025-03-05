@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **anything about web2, web3, blockchain or even scuba diving**
 
-- 📫 How to reach me **dosanjos.thomas@gmail.com**
+- 📫 How to reach me **Private message or connect with me in LinkedIn**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/thomasdosanjos/](https://www.linkedin.com/in/thomasdosanjos/)
 
