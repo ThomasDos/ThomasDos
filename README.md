@@ -6,7 +6,7 @@
 - 👨‍💻 I’m currently working on [France VAE](https://vae.gouv.fr/) — an official French public service app.  
 - 🧠 On the side, I’m building an **agentic flow** to analyze support requests and surface important topics.  
 - 🌱 I’m deepening my knowledge in **AI design patterns, MLOps, and Cloud architectures**.  
-- 💬 Ask me about **web development, articial intelligence, or even scuba diving**.  
+- 💬 Ask me about **web development, Artificial Intelligence, or even scuba diving**.  
 - 📫 How to reach me: **message me directly or connect via [LinkedIn](https://www.linkedin.com/in/thomasdosanjos/)**  
 - ⚡ Fun fact: **I’m also a Scuba Diving Instructor, and I’ve worked all around the world (Asia, Europe, America, Pacific).**
 
