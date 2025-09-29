@@ -53,6 +53,7 @@
   <a href="#"><img alt="LLMs" src="https://img.shields.io/badge/LLMs-000000?style=flat&logo=ai&logoColor=white"></a>
   <a href="#"><img alt="MLOps" src="https://img.shields.io/badge/MLOps-2E86C1?style=flat&logo=mlflow&logoColor=white"></a>
   <a href="#"><img alt="NLP" src="https://img.shields.io/badge/NLP-FF5733?style=flat&logo=natural-language-processing&logoColor=white"></a>
+  <a href="#"><img alt="Ollama" src="https://img.shields.io/badge/Ollama-000000.svg?logo=go&logoColor=white"></a>
 </p>
 
 ---
@@ -63,10 +64,14 @@
   <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
   <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
   <a href="#"><img alt="Redis" src="https://img.shields.io/badge/Redis-DD0031.svg?logo=redis&logoColor=white"></a>
+  <a href="#"><img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E.svg?logo=supabase&logoColor=white"></a>
   <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white"></a>
   <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white"></a>
+  <a href="#"><img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-4285F4.svg?logo=googlecloud&logoColor=white"></a>
   <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
   <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
+  <a href="#"><img alt="Qdrant" src="https://img.shields.io/badge/Qdrant-FF6F61.svg?logo=vector&logoColor=white"></a>
+  <a href="#"><img alt="Pinecone" src="https://img.shields.io/badge/Pinecone-2B2D42.svg?logo=pinecone&logoColor=white"></a>
 </p>
 
 ---
@@ -75,7 +80,9 @@
 
 <p>
   <a href="#"><img alt="Jest" src="https://img.shields.io/badge/jest-%23C21325.svg?logo=jest&logoColor=white"></a>
+  <a href="#"><img alt="Vitest" src="https://img.shields.io/badge/Vitest-729B1B.svg?logo=vitest&logoColor=white"></a>
   <a href="#"><img alt="Cypress" src="https://img.shields.io/badge/cypress-%2320232a.svg?logo=cypress&logoColor=058a5e"></a>
+  <a href="#"><img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33.svg?logo=playwright&logoColor=white"></a>
   <a href="#"><img alt="Mocha" src="https://img.shields.io/badge/mocha-%238D6748.svg?logo=mocha&logoColor=white"></a>
 </p>
 
@@ -88,6 +95,7 @@
   <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>
   <a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326ce5.svg?logo=kubernetes&logoColor=white"></a>
   <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white"></a>
+  <a href="#"><img alt="Bruno" src="https://img.shields.io/badge/Bruno-161B22.svg?logo=bruno&logoColor=orange"></a>
   <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white"></a>
   <a href="#"><img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B.svg?logo=slack&logoColor=white"></a>
 </p>
