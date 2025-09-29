@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <strong>Thomas</strong></h1>
 <h3 align="center"> 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=2500&color=FFDE44&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=100&lines=+Full+Stack+Web+Developer+%7C+AI+Engineer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=2500&pause=1000&color=F7C01F&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=100&lines=Full+Stack+Web+Developer;%26%26+AI+Engineer" alt="Typing SVG" /></a>
 </h3>
 
 - 👨‍💻 I’m currently working on [France VAE](https://vae.gouv.fr/) — an official French public service app.  
