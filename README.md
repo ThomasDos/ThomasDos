@@ -4,7 +4,7 @@
 </h3>
 
 - 👨‍💻 I’m currently working on [France VAE](https://vae.gouv.fr/) — an official French public service app.  
-- 🧠 On the side, I’m building an **agentic flow** to analyze support requests and surface important topics.  
+- 🧠 On the side, I’m building [ClassifIA](https://github.com/SocialGouv/classifia) an **agentic flow** to analyze support requests and surface important topics.  
 - 🌱 I’m deepening my knowledge in **AI design patterns, MLOps, and Cloud architectures**.  
 - 💬 Ask me about **web development, Artificial Intelligence, or even scuba diving**.  
 - 📫 How to reach me: **message me directly or connect via [LinkedIn](https://www.linkedin.com/in/thomasdosanjos/)**  
