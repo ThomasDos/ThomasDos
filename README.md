@@ -1,114 +1,66 @@
-<h1 align="center">Hi 👋, I'm <strong>Thomas</strong></h1>
-<h3 align="center"> 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=2500&pause=500&color=F7C01F&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=100&lines=Full+Stack+Web+Developer;%26%26+AI+Engineer" alt="Typing SVG" /></a>
-</h3>
+# Thomas Dos Anjos
 
-- 👨‍💻 I’m currently working on [France VAE](https://vae.gouv.fr/) — an official French public service app.  
-- 🧠 On the side, I’m building [ClassifIA](https://github.com/SocialGouv/classifia) an **agentic flow** to analyze support requests and surface important topics.  
-- 🌱 I’m deepening my knowledge in **AI design patterns, MLOps, and Cloud architectures**.  
-- 💬 Ask me about **web development, Artificial Intelligence, or even scuba diving**.  
-- 📫 How to reach me: **message me directly or connect via [LinkedIn](https://www.linkedin.com/in/thomasdosanjos/)**  
-- ⚡ Fun fact: **I’m also a Scuba Diving Instructor, and I’ve worked all around the world (Asia, Europe, America, Pacific).**
+**Senior AI Engineer · Tech Lead · Full Stack Developer**\
+Freelance, fully remote from France · French native, fluent English
 
----
+I design and ship AI agents (LLMs, RAG) and web applications, including public services used at national scale, with documented code your team can take over.
 
-<h3>👨‍💻 Programming and Markup Languages</h3>
+## Now
 
-<p>
-  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-  <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
-  <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
-  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"></a>
-  <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-  <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-  <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-  <a href="#"><img alt="SCSS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white"></a>
-  <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
-</p>
+* **Quaesis**: cofounder, CTO & CPO of a generative AI platform for accounting and audit firms
+* **IGN**, the French national mapping agency: freelance Product Engineer on the National Building Register (RNB) and the National Address Database (BAN)
 
----
+## Selected work
 
-<h3>🧰 Frameworks and Libraries</h3>
+### [Quaesis](https://quaesis.com)
+AI workflows for accounting and audit firms · sole developer
+* Users describe their method in plain language; Quaesis turns it into a workflow, runs it with human review at the steps they choose and returns a checked deliverable.
+* Hybrid RAG over 133,000 passages of official sources (law, tax doctrine, accounting standards), with verified citations and a recall@10 of 0.95 on an evaluation set.
+* Model routing by task with automatic fallback, data pseudonymised before any LLM call, signed audit trail with RFC 3161 timestamps.
 
-<p>
-  <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-  <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?logo=nextdotjs&logoColor=white"></a>
-  <a href="#"><img alt="NestJS" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?logo=nestjs&logoColor=white"></a>
-  <a href="#"><img alt="Express" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
-  <a href="#"><img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?logo=redux&logoColor=white"></a>
-  <a href="#"><img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE.svg?logo=prisma&logoColor=white"></a>
-  <a href="#"><img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white"></a>
-  <a href="#"><img alt="Apollo" src="https://img.shields.io/badge/-ApolloGraphQL-311C87?logo=apollo-graphql"></a>
-  <a href="#"><img alt="Tailwind" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white"></a>
-</p>
+### [Mentiora AI](https://www.mentiora.ai) (2025 to 2026)
+Swiss AI agent platform for customer experience · [mentiora-sdk](https://github.com/mentiora-ai/mentiora-sdk)
+* Was one of the first developers, in an English speaking team led by a former Google DeepMind tech lead.
+* Built the Zendesk connector that lets the agent handle tickets and hand over to a human in real time, with full context.
+* Designed hybrid RAG isolated per client for healthcare and finance customers, traced with OpenTelemetry.
+* Launched the TypeScript and Python SDKs; migrated agent orchestration from LangChain and LangGraph to Vercel AI SDK and Mastra.
 
----
+### [National Building Register](https://rnb.beta.gouv.fr) and National Address Database
+IGN · [RNB-coeur](https://github.com/fab-geocommuns/RNB-coeur)
+* RNB: about 45 million buildings, 75 million API calls to date. Zero downtime API deployments, automatic restart of interrupted imports, an alert on every failure.
+* Two factor authentication for password and ProConnect sign in, upgrade to PostgreSQL 17, leaner database on Scaleway (22.5 GB of unused indexes dropped).
+* BAN: hiring and training the team, and running the handover of the service to IGN.
 
-<h3>🤖 Artificial Intelligence</h3>
+### [France VAE](https://vae.gouv.fr) (2023 to 2026)
+National public service for the recognition of prior learning · [betagouv/reva](https://github.com/betagouv/reva)
+* The service reached 53,000 candidates in 2025; average time to certification went from 18 to 8 months.
+* One of the two main developers for three years: 1,994 commits, second largest contributor to the project.
+* Fully online eligibility file, FranceConnect sign in through Keycloak, interoperability API for certifiers, pentest remediation and two factor authentication.
 
-<p>
-  <a href="#"><img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"></a>
-  <a href="#"><img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white"></a>
-  <a href="#"><img alt="Hugging Face" src="https://img.shields.io/badge/HuggingFace-ffcc00.svg?logo=huggingface&logoColor=black"></a>
-  <a href="#"><img alt="LLMs" src="https://img.shields.io/badge/LLMs-000000?style=flat&logo=ai&logoColor=white"></a>
-  <a href="#"><img alt="MLOps" src="https://img.shields.io/badge/MLOps-2E86C1?style=flat&logo=mlflow&logoColor=white"></a>
-  <a href="#"><img alt="NLP" src="https://img.shields.io/badge/NLP-FF5733?style=flat&logo=natural-language-processing&logoColor=white"></a>
-  <a href="#"><img alt="Ollama" src="https://img.shields.io/badge/Ollama-000000.svg?logo=go&logoColor=white"></a>
-</p>
+### Also built
+* [ClassifIA](https://github.com/betagouv/classifia), solo: classifies support conversations with Albert, the French government's LLM, and vector similarity, to surface recurring topics for the product roadmap.
+* [Dotations Locales](https://github.com/ThomasDos/dotations-locales), lead frontend: simulation of state grants for every French local authority, built from scratch with the government design system (DSFR), accessibility and Playwright tests.
 
----
+Earlier: Tech Lead of an AI training marketplace (LangGraph agents), Familiar (hotel CRM, Temporal), Zelty (point of sale used by 4,000 restaurants), Air Liquide Healthcare (React Native), SNCF.
 
-<h3>🗄️ Databases and Cloud Hosting</h3>
+## How I can help
 
-<p>
-  <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
-  <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
-  <a href="#"><img alt="Redis" src="https://img.shields.io/badge/Redis-DD0031.svg?logo=redis&logoColor=white"></a>
-  <a href="#"><img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E.svg?logo=supabase&logoColor=white"></a>
-  <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white"></a>
-  <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white"></a>
-  <a href="#"><img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-4285F4.svg?logo=googlecloud&logoColor=white"></a>
-  <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
-  <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
-  <a href="#"><img alt="Qdrant" src="https://img.shields.io/badge/Qdrant-FF6F61.svg?logo=vector&logoColor=white"></a>
-  <a href="#"><img alt="Pinecone" src="https://img.shields.io/badge/Pinecone-2B2D42.svg?logo=pinecone&logoColor=white"></a>
-</p>
+* **Build**: ship your AI product or feature, from scratch or on your existing codebase.
+* **Embed**: join your team as a senior Full Stack and AI developer.
+* **Lead**: take the Tech Lead role (architecture, code review, hiring, mentoring).
 
----
+Full time or part time, for a few weeks or for many months.
 
-<h3>🧪 Testing</h3>
+## Stack
 
-<p>
-  <a href="#"><img alt="Jest" src="https://img.shields.io/badge/jest-%23C21325.svg?logo=jest&logoColor=white"></a>
-  <a href="#"><img alt="Vitest" src="https://img.shields.io/badge/Vitest-729B1B.svg?logo=vitest&logoColor=white"></a>
-  <a href="#"><img alt="Cypress" src="https://img.shields.io/badge/cypress-%2320232a.svg?logo=cypress&logoColor=058a5e"></a>
-  <a href="#"><img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33.svg?logo=playwright&logoColor=white"></a>
-  <a href="#"><img alt="Mocha" src="https://img.shields.io/badge/mocha-%238D6748.svg?logo=mocha&logoColor=white"></a>
-</p>
+* **AI**: LangGraph, LangChain, Vercel AI SDK, Mastra, OpenAI, Anthropic, pgvector, Langfuse
+* **Web**: TypeScript, Python, React, Next.js, NestJS, Node.js, FastAPI, Django, GraphQL, PostgreSQL, PostGIS
+* **Infra**: Docker, Kubernetes, Terraform, GCP, Scaleway, GitHub Actions, OpenTelemetry
 
----
+## Contact
 
-<h3>💻 Tools & DevOps</h3>
+Open to remote freelance work in France, Switzerland, the US and beyond.
 
-<p>
-  <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github-actions&logoColor=white"></a>
-  <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>
-  <a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326ce5.svg?logo=kubernetes&logoColor=white"></a>
-  <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white"></a>
-  <a href="#"><img alt="Bruno" src="https://img.shields.io/badge/Bruno-161B22.svg?logo=bruno&logoColor=orange"></a>
-  <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white"></a>
-  <a href="#"><img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B.svg?logo=slack&logoColor=white"></a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/thomasdosanjos/) · [Malt](https://www.malt.fr/profile/thomasdosanjos) · [dosanjos.thomas@gmail.com](mailto:dosanjos.thomas@gmail.com)
 
----
-
-<h3 align="left">📬 Connect with me:</h3>
-
-<p align="left">
-<a href="https://twitter.com/thomas_dev_" target="blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/></a>
-<a href="https://linkedin.com/in/thomasdosanjos" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>
-
-<br/>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thomasdos&show_icons=true&locale=en&layout=compact" alt="thomasdos" /></p>
+Off keyboard: PADI scuba diving instructor; I have worked across Asia, Europe, the Americas and the Pacific.
